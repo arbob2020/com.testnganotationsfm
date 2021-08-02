@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-28T16:09:09 EDT" name="Default suite" finished-at="2021-06-28T16:09:09 EDT" duration-ms="185">
+    <groups>
+    </groups>
+    <test started-at="2021-06-28T16:09:09 EDT" name="Default test" finished-at="2021-06-28T16:09:09 EDT" duration-ms="185">
+      <class name="com.testnganotationspractice.BuyTablet">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="beforeSuite" finished-at="2021-06-28T16:09:09 EDT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="beforeTest" finished-at="2021-06-28T16:09:09 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="beforeClass" finished-at="2021-06-28T16:09:09 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="beforeMethod" finished-at="2021-06-28T16:09:09 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="HowMuchDoesTheTabletCost()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="HowMuchDoesTheTabletCost" finished-at="2021-06-28T16:09:09 EDT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HowMuchDoesTheTabletCost -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="afterMethod" finished-at="2021-06-28T16:09:09 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="beforeMethod" finished-at="2021-06-28T16:09:09 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ICanBuyTheTablet()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="ICanBuyTheTablet" finished-at="2021-06-28T16:09:09 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ICanBuyTheTablet -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="afterMethod" finished-at="2021-06-28T16:09:09 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="beforeMethod" finished-at="2021-06-28T16:09:09 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TheTabletCosts1000Dollars()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="TheTabletCosts1000Dollars" finished-at="2021-06-28T16:09:09 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheTabletCosts1000Dollars -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="afterMethod" finished-at="2021-06-28T16:09:09 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="afterClass" finished-at="2021-06-28T16:09:09 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="afterTest" finished-at="2021-06-28T16:09:09 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.testnganotationspractice.BuyTablet@36c88a32]" started-at="2021-06-28T16:09:09 EDT" name="afterSuite" finished-at="2021-06-28T16:09:09 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testnganotationspractice.BuyTablet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
